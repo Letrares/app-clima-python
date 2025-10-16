@@ -1,0 +1,13 @@
+# Ficheiros de cache do Python
+__pycache__/
+*.pyc
+
+# Pastas de ambiente virtual
+venv/
+.venv/
+env/
+.env
+
+# Ficheiros de configuração de editores de código
+.vscode/
+.idea/
